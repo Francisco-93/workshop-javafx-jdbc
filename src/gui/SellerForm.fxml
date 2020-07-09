@@ -9,7 +9,11 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.RowConstraints?>
 
+<<<<<<< HEAD
 <AnchorPane prefHeight="195.0" prefWidth="748.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.SellerFormController">
+=======
+<AnchorPane prefHeight="195.0" prefWidth="748.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.DepartmentFormController">
+>>>>>>> 37b601ba2237857b265bb1b40806100110362596
    <children>
       <GridPane layoutX="45.0" layoutY="43.0" prefHeight="165.0" prefWidth="639.0" AnchorPane.leftAnchor="20.0" AnchorPane.topAnchor="20.0">
         <columnConstraints>
